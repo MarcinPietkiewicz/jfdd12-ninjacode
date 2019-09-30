@@ -1,7 +1,8 @@
 # CashBake landing page 
 
-Demo: http://www.ninjacode.jfdd12.is-academy.pl/
-Game demo: http://www.ninjacode.jfdd12.is-academy.pl/game/index.html
+- Demo: http://www.ninjacode.jfdd12.is-academy.pl/
+- Game demo: http://www.ninjacode.jfdd12.is-academy.pl/game/index.html
+- App demo: http://app.ninjacode.jfdd12.is-academy.pl/history
 
 ## A promotional landing page  
 
