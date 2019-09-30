@@ -1,5 +1,8 @@
 # CashBake landing page 
 
+Demo: http://www.ninjacode.jfdd12.is-academy.pl/
+Game demo: http://www.ninjacode.jfdd12.is-academy.pl/game/index.html
+
 ## A promotional landing page  
 
 - A promotional landing page enticing viewers to sign up to the newsletter informing them when the app is ready
